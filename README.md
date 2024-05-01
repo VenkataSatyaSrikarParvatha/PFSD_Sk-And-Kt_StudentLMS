@@ -15,3 +15,6 @@ To run the project- 1.download/clone the repository
 6.run the project
 
 Thank You Srikar & Kireeti - Team 17 Section 24 ( Project 18)
+
+Python Anywhere Deployment Link :
+https://2200032432.pythonanywhere.com/
